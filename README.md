@@ -1,5 +1,5 @@
 # sign-jetson-dtb
-Sign dtb for Jetson TX2
+Sign dtb for Nvidia Jetson TX2
 
 Jetson TX2 need dtb was "signed" in emmc partiion.
 Default key is 16 bytes of zero. 
