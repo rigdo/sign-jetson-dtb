@@ -3,7 +3,9 @@ Sign dtb for Jetson TX2
 
 Jetson TX2 need dtb was "signed" in emmc partiion.
 Default key is 16 bytes of zero. 
-(Orig project: https://github.com/kmartin36/nv-tegra-sign (python))
+
+# 
+Orig project: https://github.com/kmartin36/nv-tegra-sign (python)
 
 #### Dependencies:
 ```
